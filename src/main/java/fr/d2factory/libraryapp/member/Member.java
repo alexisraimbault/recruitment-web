@@ -11,6 +11,7 @@ public abstract class Member {
      * An initial sum of money the member has
      */
     private float wallet;
+    public int maxLocationDays;
 
     /**
      * The member should pay their books when they are returned to the library
